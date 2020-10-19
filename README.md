@@ -1,2 +1,2 @@
 # moVility
-Hackathon, moVility: El transporte público inteligente.
+Proyecto para Hackathon 2020, moVility: El transporte público inteligente. [Finalizado]
